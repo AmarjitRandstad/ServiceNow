@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c31a7bf5c317a1102cde753ce00131b7" sys_domain="global" table="x_1061889_innovate_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>amarjit.ram</sys_created_by>
+            <sys_created_on>2023-06-09 06:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d31a7bf5c317a1102cde753ce00131ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1061889_innovate_innovate" name="x_1061889_innovate_innovate" sys_domain="global" view="Default view">c31a7bf5c317a1102cde753ce00131b7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1061889_innovate_innovate" sys_domain="global" view="Default view">54493735c317a1102cde753ce0013185</sys_ui_section>
+            <sys_updated_by>amarjit.ram</sys_updated_by>
+            <sys_updated_on>2023-06-09 06:11:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>amarjit.ram</sys_created_by>
+            <sys_created_on>2023-06-09 06:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df1a7bf5c317a1102cde753ce00131ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1061889_innovate_innovate" name="x_1061889_innovate_innovate" sys_domain="global" view="Default view">c31a7bf5c317a1102cde753ce00131b7</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1061889_innovate_innovate" sys_domain="global" view="Default view">cb1a7bf5c317a1102cde753ce00131b5</sys_ui_section>
+            <sys_updated_by>amarjit.ram</sys_updated_by>
+            <sys_updated_on>2023-06-09 06:11:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>amarjit.ram</sys_created_by>
+            <sys_created_on>2023-06-09 06:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b1a7bf5c317a1102cde753ce00131d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1061889_innovate_innovate" name="x_1061889_innovate_innovate" sys_domain="global" view="Default view">c31a7bf5c317a1102cde753ce00131b7</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1061889_innovate_innovate" sys_domain="global" view="Default view">471a7bf5c317a1102cde753ce00131b6</sys_ui_section>
+            <sys_updated_by>amarjit.ram</sys_updated_by>
+            <sys_updated_on>2023-06-09 06:11:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1061889_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>amarjit.ram</sys_created_by>
+            <sys_created_on>2023-06-09 06:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c31a7bf5c317a1102cde753ce00131b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1061889_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_1061889_innovate">3264eb71c3d3a1102cde753ce001318f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">3264eb71c3d3a1102cde753ce001318f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c31a7bf5c317a1102cde753ce00131b7</sys_update_name>
+            <sys_updated_by>amarjit.ram</sys_updated_by>
+            <sys_updated_on>2023-06-09 06:11:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
